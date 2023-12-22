@@ -1,0 +1,1 @@
+export const DEFAULT_DOCUMENT_REM_FONT_SIZE = 16;
